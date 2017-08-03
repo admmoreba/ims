@@ -1,0 +1,2 @@
+Json Parsing for UUID class.
+Solution target to resolve issue #1
