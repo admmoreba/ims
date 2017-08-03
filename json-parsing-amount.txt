@@ -1,0 +1,2 @@
+Json Parsing for Amount class.
+Solution to resolve issue #2
